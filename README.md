@@ -15,4 +15,4 @@ Futuras atualizações:
 
 Pretendo adicionar no sistema um banco de dados para guardar as informações mesmo após o usuário fechar a aba.
 
-Link do sistema:
+Link do sistema: https://rafaelcostaty846-ops.github.io/Gerenciamento-de-Alunos/
